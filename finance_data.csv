@@ -1,0 +1,50 @@
+date,amount,category,description
+03-08-2024,55.0,Income,Gambling
+04-08-2024,30.0,Expense,Utilities
+05-08-2024,100.0,Income,Salary
+06-08-2024,20.0,Expense,Transportation
+07-08-2024,15.0,Expense,Books
+08-08-2024,40.0,Income,Freelance
+09-08-2024,10.0,Expense,Snacks
+10-08-2024,75.0,Income,Investments
+11-08-2024,50.0,Expense,Rent
+12-08-2024,25.0,Income,Gift
+13-08-2024,20.0,Expense,Entertainment
+14-08-2024,35.0,Income,Online Sales
+15-08-2024,45.0,Expense,Utilities
+16-08-2024,60.0,Income,Side Job
+17-08-2024,30.0,Expense,Groceries
+18-08-2024,80.0,Income,Dividend
+19-08-2024,40.0,Expense,Healthcare
+20-08-2024,70.0,Income,Interest
+21-08-2024,90.0,Expense,Education
+22-08-2024,55.0,Income,Consulting
+23-08-2024,25.0,Expense,Clothing
+24-08-2024,95.0,Income,Contract Work
+25-08-2024,60.0,Expense,Travel
+26-08-2024,35.0,Income,Rental Income
+27-08-2024,45.0,Expense,Subscriptions
+28-08-2024,50.0,Income,Stock Trading
+29-08-2024,20.0,Expense,Household Items
+30-08-2024,85.0,Income,Bonus
+31-08-2024,40.0,Expense,Insurance
+01-09-2024,75.0,Income,Gift
+02-09-2024,30.0,Expense,Restaurant
+03-09-2024,55.0,Income,Sales
+04-09-2024,65.0,Expense,Internet
+05-09-2024,85.0,Income,Affiliate Marketing
+06-09-2024,50.0,Expense,Medical Bills
+07-09-2024,20.0,Income,Web Design
+08-09-2024,70.0,Expense,Home Improvement
+09-09-2024,90.0,Income,Stock Dividends
+10-09-2024,25.0,Expense,Personal Care
+11-09-2024,40.0,Income,Investments
+12-09-2024,60.0,Expense,Groceries
+13-09-2024,30.0,Income,Freelance Writing
+14-09-2024,45.0,Expense,Entertainment
+15-09-2024,55.0,Income,Side Hustle
+16-09-2024,20.0,Expense,Utilities
+17-09-2024,75.0,Income,Real Estate
+18-09-2024,50.0,Expense,Education
+19-09-2024,85.0,Income,Contract
+20-09-2024,40.0,Expense,Clothing
